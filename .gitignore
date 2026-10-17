@@ -1,0 +1,27 @@
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de configuração local
+.env
+.env.*
+
+# Segredos e credenciais
+token.json
+credentials.json
+client_secret*.json
+
+# Arquivos do editor
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
